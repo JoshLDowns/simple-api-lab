@@ -2,11 +2,11 @@
   {
     "id": "1",
     "name": "Josh",
-    "link": "http://localhost:3000/user/josh"
+    "link": "https://jd-animal-api.herokuapp.com/user/josh"
   },
   {
     "id": "2",
     "name": "Alex",
-    "link": "http://localhost:3000/user/alex"
+    "link": "https://jd-animal-api.herokuapp.com/user/alex"
   }
 ]
